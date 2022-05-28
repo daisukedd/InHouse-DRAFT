@@ -1,8 +1,8 @@
 {
   "frontend": {
-    "scoreEnabled": true,
-    "spellsEnabled": true,
-    "coachesEnabled": true,
+    "scoreEnabled": false,
+    "spellsEnabled": false,
+    "coachesEnabled": false,
     "blueTeam": {
       "name": "Team Blue",
       "score": 2,

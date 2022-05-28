@@ -27,6 +27,7 @@
     }
 
     .PlayerName {
+      font-family: Montserrat bold;
       letter-spacing: 1px;
       transition: height 1s, font-size 1s, margin-top 1s, background-color 0.3s, color 0.3s;
       height: var(--pick-name-height);
@@ -89,7 +90,7 @@
   &.Active {
     .PlayerName {
       position: relative;
-      background-color: #6800f5;
+      background-color: #2E9CF9;
       color: white;
     }
     .PlayerName::after {
@@ -105,7 +106,7 @@
     span {
       position: relative;
       z-index: 10;
-      font-size: 18px;
+      font-size: 10px;
     }
   }
 }
@@ -116,7 +117,7 @@
   &.Active {
     .PlayerName {
       position: relative;
-      background-color: #ff134a;
+      background-color: #F92E63;
       color: white;
     }
     .PlayerName::after {
@@ -132,7 +133,7 @@
     span {
       position: relative;
       z-index: 10;
-      font-size: 18px;
+      font-size: 10px;
     }
   }
 }

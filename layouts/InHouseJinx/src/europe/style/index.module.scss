@@ -2,7 +2,8 @@
 
 body {
     background: rgb(65, 65, 65);
-    font-family: URW DIN Bold Italic;
+    font-family: Joyride Bold ;
+    text-transform: lowercase;
     // font-family: 'Nova Flat', sans-serif;
     //font-family: Amarello;
 
@@ -56,7 +57,7 @@ body {
         z-index: 10;
 
         img {
-            width: 80%;
+            width: 60%;
             height: 80%;
             margin: 0 auto;
             padding-top: 10%;
